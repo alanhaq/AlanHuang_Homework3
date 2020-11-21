@@ -29,7 +29,6 @@ top_total_cases = coronavirus %>%
   group_by(country) %>%
   summarise(total_cases = sum(cases)) %>%
   arrange(-total_cases)
-
 top_total_cases %>% head(20)
 
 # b) Display of the top 5 countries in a bar graph
