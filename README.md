@@ -1,35 +1,4 @@
-# Homework 3
-
-## Due Date
-This homework is due on ***Friday, November 20th at 11:59 PM EST***.
-
-> **Late submissions will lose 50% of their original grade, with no exceptions.**
-> This means that if your original grade would've been an 80%, you would get a 40%, and so on so forth.
-
-## Submission Instructions
-Please follow these exact submission instructions. 
-
-**Failure to follow these instructions will result in a 20 point deduction.**
-
-1. You must submit your R file and a PDF with a link to your Github repository, which must be public.
-1. The PDF should be called `FirstNameLastName_Homework3.pdf`.
-1. Your R file should be named in the format `FirstNameLastName_Homework3.R`.
-
-## Style
-
-**Style for this assignment will count for 10 points of the assignment**. 
-
-Code style consists of the following:
-
-Your code should be written in a way that is clear and easy to read.
-
-Try to use intention revealing variable name, i.e. names that illustrate what your variable actually represents.
-
-Use methods if you see code that can potentially be re-used.
-
-Use comments if you believe your code needs to be explained further or is in any way unclear.
-
-Not all of these apply to this specific assignment, but they are good things to keep in mind while coding. 
+# Covid-19 Visualization
 
 ## Assignment Overview
 The COVID-19 pandemic has taken over our lives. Hundreds of thousands of people around the world have been infected or died.
